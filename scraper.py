@@ -4,17 +4,20 @@ import csv,os
 
 file = os.path.isfile('rockauto.csv')
 
-proxies={
-    "https": "https://202.74.244.186:56710",
-    "http": "http://202.74.244.186:56710"
+proxies = {
+    "https": "https://103.109.97.22:44527",
+    "http": "http://103.109.97.22:44527"
 }
 
 # source = requests.get('https://www.rockauto.com/',proxies=proxies)
 # print(source.text)
 domain = 'https://www.rockauto.com'
 
+def proxiesRequest(urll):
+    return requests.get(urll,proxies=proxies).text
+
 def findAnchor(input):
-    source = requests.get(domain+input['href']).text
+    source = requests.get(domain+input['href'],proxies=proxies)
     soup = BeautifulSoup(source, 'lxml')
     output = soup.findChildren('a', class_='navlabellink nvoffset nnormal')
     return output
@@ -26,7 +29,7 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
     if not file:
         writer.writeheader()
 
-    brand_source = requests.get(domain).text
+    brand_source = requests.get(domain,proxies=proxies).text
     brand_soup = BeautifulSoup(brand_source,'lxml')
     brands = brand_soup.findChildren('a',class_='navlabellink nvoffset nnormal')
     for brand in brands:
@@ -39,7 +42,7 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
                 for engine in engines[3:]:
                     categories = findAnchor(engine)
                     for category in categories[4:]:
-                        sub_category_source = requests.get(domain + category['href']).text
+                        sub_category_source = requests.get(domain + category['href'],proxies=proxies).text
                         sub_category_soup = BeautifulSoup(sub_category_source, 'lxml')
                         sub_categories = sub_category_soup.findChildren('a', class_='navlabellink nvoffset nimportant')
                         if len(sub_categories) == 0:
@@ -47,7 +50,7 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
                             sub_categories=sub_categories[5:]
 
                         for sub_category in sub_categories:
-                            details_source = requests.get(domain + sub_category['href']).text
+                            details_source = requests.get(domain + sub_category['href'],proxies=proxies).text
                             details_soup = BeautifulSoup(details_source, 'lxml')
 
                             details = details_soup.findChildren('tbody',class_='listing-inner')
