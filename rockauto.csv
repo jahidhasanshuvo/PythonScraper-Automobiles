@@ -1411,3 +1411,591 @@ AC,1963,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.
 AC,1963,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
 AC,1963,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
 AC,1963,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1962,ACE,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1962,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1962,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1962,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1962,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1962,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1962,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1962,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1962,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1962,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1962,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1962,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1962,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1962,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1962,ACE,2.6L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1962,ACE,2.6L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1962,ACE,2.6L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1962,ACE,2.6L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1962,ACE,2.6L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1962,ACE,2.6L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,CHAMPION,38,Copper Plus,$1.34
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,CHAMPION,404,Copper Plus,$1.34
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1962,ACE,2.6L L6,Ignition,Spark Plug,ACDELCO,41828,Professional; Double Platinum (Rebate/Promotion Available!),$4.85
+AC,1962,ACE,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1962,ACE,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1962,ACE,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1962,ACE,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1962,ACE,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1962,ACE,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1962,ACE,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1962,ACECA,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1962,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1962,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1962,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1962,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1962,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1962,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1962,ACECA,2.6L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1962,ACECA,2.6L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1962,ACECA,2.6L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1962,ACECA,2.6L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1962,ACECA,2.6L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1962,ACECA,2.6L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,CHAMPION,38,Copper Plus,$1.34
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,CHAMPION,404,Copper Plus,$1.34
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1962,ACECA,2.6L L6,Ignition,Spark Plug,ACDELCO,41828,Professional; Double Platinum (Rebate/Promotion Available!),$4.85
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1962,ACECA,2.6L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1962,GREYHOUND,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1962,GREYHOUND,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1962,GREYHOUND,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1962,GREYHOUND,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1962,GREYHOUND,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1962,GREYHOUND,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1962,GREYHOUND,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1962,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1962,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1962,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1961,ACE,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1961,ACE,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1961,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1961,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1961,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1961,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1961,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1961,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1961,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1961,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1961,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1961,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1961,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1961,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1961,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1961,ACECA,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1961,ACECA,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1961,ACECA,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1961,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1961,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1961,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1961,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1961,ACECA,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1961,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1961,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1961,GREYHOUND,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1961,GREYHOUND,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1961,GREYHOUND,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1961,GREYHOUND,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1961,GREYHOUND,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1961,GREYHOUND,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1961,GREYHOUND,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1961,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1961,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1960,ACE,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1960,ACE,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1960,ACE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1960,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1960,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1960,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1960,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1960,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1960,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1960,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1960,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1960,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1960,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1960,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1960,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1960,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1960,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1960,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1960,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1960,ACECA,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1960,ACECA,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1960,ACECA,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1960,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1960,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1960,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1960,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1960,ACECA,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1960,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1960,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1960,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1960,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1960,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1960,GREYHOUND,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1960,GREYHOUND,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1960,GREYHOUND,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1960,GREYHOUND,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1960,GREYHOUND,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1960,GREYHOUND,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1960,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1960,GREYHOUND,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1959,ACE,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1959,ACE,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1959,ACE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1959,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1959,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1959,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1959,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1959,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1959,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1959,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1959,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1959,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1959,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1959,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1959,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1959,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1959,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1959,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1959,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1959,ACECA,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1959,ACECA,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1959,ACECA,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1959,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1959,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1959,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1959,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1959,ACECA,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1959,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1959,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1959,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1959,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1959,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1959,GREYHOUND,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1959,GREYHOUND,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,65,Resistor,$1.13
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416,Copper; Resistor,$1.39
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,R44XLS,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP416A,N/A,$1.50
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP65,Platinum (Rebate/Promotion Available!),$2.13
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,ACDELCO,41813,Professional; Platinum (Rebate/Promotion Available!),$4.72
+AC,1959,GREYHOUND,2.0L L6,Ignition,Spark Plug,AUTOLITE,APP65,Double Platinum (Rebate/Promotion Available!),$3.44
+AC,1958,ACE,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1958,ACE,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1958,ACE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1958,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1958,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1958,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1958,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1958,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1958,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1958,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1958,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1958,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1958,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1958,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1958,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1958,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1958,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1958,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1958,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1958,ACECA,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1958,ACECA,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1958,ACECA,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1958,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1958,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1958,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1958,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1958,ACECA,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1958,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1958,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1958,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1958,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1958,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1958,TWO-LITRE,2.0L L6,Brake & Wheel Hub,Brake Pad,CENTRIC,10200040,C-TEK Metallic,$11.02
+AC,1958,TWO-LITRE,2.0L L6,Brake & Wheel Hub,Brake Pad,CENTRIC,10200090,C-TEK Metallic,$11.69
+AC,1958,TWO-LITRE,2.0L L6,Brake & Wheel Hub,Brake Pad,CENTRIC,10600090,Posi-Quiet Extended Wear w/Shims,$21.89
+AC,1958,TWO-LITRE,2.0L L6,Brake & Wheel Hub,Brake Pad,CENTRIC,10500090,Posi-Quiet Ceramic w/Shims,$27.79
+AC,1958,TWO-LITRE,2.0L L6,Brake & Wheel Hub,Brake Pad,CENTRIC,50000090,PQ PRO,Out of Stock
+AC,1958,TWO-LITRE,2.0L L6,Electrical-Bulb & Socket,Headlamp Socket,WVE/AIRTEX/WELLS,1P1338,N/A,$3.35
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1958,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1957,ACE,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1957,ACE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1957,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1957,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1957,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1957,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1957,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1957,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1957,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1957,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1957,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1957,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1957,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1957,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1957,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1957,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1957,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1957,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1957,ACECA,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1957,ACECA,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1957,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1957,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1957,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1957,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1957,ACECA,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1957,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1957,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1957,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1957,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1957,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1957,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1956,ACE,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1956,ACE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1956,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1956,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1956,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1956,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1956,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1956,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1956,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1956,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1956,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1956,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1956,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1956,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1956,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1956,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1956,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1956,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1956,ACECA,2.0L L6,Electrical,Battery,DEKA,9A34,BCI Group 34; CCA 775,$151.99
+AC,1956,ACECA,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1956,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1956,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1956,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1956,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1956,ACECA,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1956,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1956,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1956,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1956,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1956,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1956,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1955,ACE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1955,ACE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1955,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1955,ACE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1955,ACE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1955,ACE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1955,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1955,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1955,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1955,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1955,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1955,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1955,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1955,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1955,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1955,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1955,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1955,ACECA,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1955,ACECA,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1955,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1955,ACECA,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1955,ACECA,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1955,ACECA,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1955,ACECA,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1955,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1955,ACECA,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1955,ACECA,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ACDELCO,87100,CLASSIC,$7.90
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,TRICO,33101,"Classic Blade; 10"" (255mm), Permanent Pin, Wrist Action",$9.19
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1955,ACECA,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Distributor Rotor,STANDARD MOTOR PRODUCTS,LU302,Intermotor,$4.53
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,SPECTRA PREMIUM,C622,N/A,$7.57
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15T,T-Series,$8.39
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,ADVAN-TECH,3F9W,N/A,$9.32
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,STANDARD MOTOR PRODUCTS,UC15,Intermotor,$14.96
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Ignition Coil,UNITED MOTOR PRODUCTS,C15,United Premium OEM replacement coil,$19.87
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1955,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1954,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1954,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1954,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1954,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1954,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1954,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1954,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1954,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1954,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1954,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1954,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1954,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1954,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1954,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1954,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1954,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1953,ACE,2.0L L6,Ignition,Spark Plug,AUTOLITE,275,Non-Resistor,$1.19
+AC,1953,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,306,Copper Plus,$1.34
+AC,1953,ACE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1953,ACE,2.0L L6,Ignition,Spark Plug,CHAMPION,830,Copper Plus,$1.47
+AC,1953,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,RDB16,RainyDay Wiper,$1.33
+AC,1953,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,14C16,14-Series,$2.07
+AC,1953,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3116,"31-Series; 16""",$2.51
+AC,1953,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,9116,"AeroVantage; 16""",$4.09
+AC,1953,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,2015,Vintage,$11.72
+AC,1953,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,3016,"WINTER; Conventional Blade w/ Anti-Icing Boots; 16""",$4.31
+AC,1953,ACE,2.0L L6,Wiper & Washer,Wiper Blade,ANCO,C16UB,"Contour; 16""",$7.65
+AC,1953,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1953,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1953,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1953,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1953,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1952,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1952,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1952,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1952,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1952,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1951,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1951,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1951,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1951,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1951,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1950,TWO-LITRE,2.0L L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1950,TWO-LITRE,2.0L L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1950,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1950,TWO-LITRE,2.0L L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1950,TWO-LITRE,2.0L L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1949,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1949,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1949,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1949,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1949,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1948,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1948,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1948,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1948,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1948,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07
+AC,1947,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,MOTORCRAFT,SP441,Wholesaler Closeout -- 30 Day Warranty,$0.95
+AC,1947,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,CHAMPION,896,Copper Plus,$1.02
+AC,1947,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,AUTOLITE,425,Resistor,$1.10
+AC,1947,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,ACDELCO,R44F,Professional; Conventional (Rebate/Promotion Available!),$1.42
+AC,1947,TWO-LITRE,2.0L 122cid L6,Ignition,Spark Plug,AUTOLITE,AP425,Platinum (Rebate/Promotion Available!),$2.07

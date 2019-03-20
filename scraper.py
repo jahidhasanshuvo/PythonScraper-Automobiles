@@ -23,7 +23,7 @@ def findAnchor(input):
     else:
         url = domain+input['href']
     source = requestUsingProxies(url)
-    print(source)
+    # print(source)
     soup = BeautifulSoup(source, 'lxml')
     output = soup.findChildren('a', class_='navlabellink nvoffset nnormal')
     return output
