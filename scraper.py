@@ -1,12 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
-import csv,os
+import csv,os,time
 
 file = os.path.isfile('rockauto.csv')
 
 proxies = {
-    "https": "103.112.128.6:53281",
-    "http": "103.112.128.6:53281"
+    "https": "https://176.98.76.210:42953",
+    "http": "http://176.98.76.210:42953"
 }
 
 # source = requests.get('https://www.rockauto.com/',proxies=proxies)
@@ -14,6 +14,7 @@ proxies = {
 domain = 'https://www.rockauto.com'
 
 def requestUsingProxies(url):
+    # time.sleep(3)
     return requests.get(url).text
 
 def findAnchor(input):
@@ -22,6 +23,7 @@ def findAnchor(input):
     else:
         url = domain+input['href']
     source = requestUsingProxies(url)
+    print(source)
     soup = BeautifulSoup(source, 'lxml')
     output = soup.findChildren('a', class_='navlabellink nvoffset nnormal')
     return output
