@@ -14,7 +14,7 @@ proxies = {
 domain = 'https://www.rockauto.com'
 
 def requestUsingProxies(url):
-    # time.sleep(3)
+    time.sleep(3)
     return requests.get(url).text
 
 def findAnchor(input):
