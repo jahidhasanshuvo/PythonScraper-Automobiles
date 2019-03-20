@@ -5,19 +5,23 @@ import csv,os
 file = os.path.isfile('rockauto.csv')
 
 proxies = {
-    "https": "https://103.109.97.22:44527",
-    "http": "http://103.109.97.22:44527"
+    "https": "103.112.128.6:53281",
+    "http": "103.112.128.6:53281"
 }
 
 # source = requests.get('https://www.rockauto.com/',proxies=proxies)
 # print(source.text)
 domain = 'https://www.rockauto.com'
 
-def proxiesRequest(urll):
-    return requests.get(urll,proxies=proxies).text
+def requestUsingProxies(url):
+    return requests.get(url).text
 
 def findAnchor(input):
-    source = requests.get(domain+input['href'],proxies=proxies)
+    if input is None:
+        url = domain
+    else:
+        url = domain+input['href']
+    source = requestUsingProxies(url)
     soup = BeautifulSoup(source, 'lxml')
     output = soup.findChildren('a', class_='navlabellink nvoffset nnormal')
     return output
@@ -29,9 +33,7 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
     if not file:
         writer.writeheader()
 
-    brand_source = requests.get(domain,proxies=proxies).text
-    brand_soup = BeautifulSoup(brand_source,'lxml')
-    brands = brand_soup.findChildren('a',class_='navlabellink nvoffset nnormal')
+    brands = findAnchor(None)
     for brand in brands:
         years=findAnchor(brand)
         for year in years[1:]:
@@ -42,7 +44,7 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
                 for engine in engines[3:]:
                     categories = findAnchor(engine)
                     for category in categories[4:]:
-                        sub_category_source = requests.get(domain + category['href'],proxies=proxies).text
+                        sub_category_source = requestUsingProxies(domain + category['href'])
                         sub_category_soup = BeautifulSoup(sub_category_source, 'lxml')
                         sub_categories = sub_category_soup.findChildren('a', class_='navlabellink nvoffset nimportant')
                         if len(sub_categories) == 0:
@@ -50,7 +52,7 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
                             sub_categories=sub_categories[5:]
 
                         for sub_category in sub_categories:
-                            details_source = requests.get(domain + sub_category['href'],proxies=proxies).text
+                            details_source = requestUsingProxies(domain + sub_category['href'])
                             details_soup = BeautifulSoup(details_source, 'lxml')
 
                             details = details_soup.findChildren('tbody',class_='listing-inner')
