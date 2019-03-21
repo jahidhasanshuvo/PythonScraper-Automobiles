@@ -5,8 +5,8 @@ import csv,os,time
 file = os.path.isfile('rockauto.csv')
 
 proxies = {
-    "https": "https://176.98.76.210:42953",
-    "http": "http://176.98.76.210:42953"
+    "https": "https://117.58.243.244:52636",
+    "http": "http://117.58.243.244:52636"
 }
 
 # source = requests.get('https://www.rockauto.com/',proxies=proxies)
