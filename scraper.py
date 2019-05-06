@@ -6,10 +6,17 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 file = os.path.isfile('rockauto.csv')
 
+<<<<<<< HEAD
 # proxies = {
 #     "https": "https://176.98.76.210:42953",
 #     "http": "http://176.98.76.210:42953"
 # }
+=======
+proxies = {
+    "https": "https://117.58.243.244:52636",
+    "http": "http://117.58.243.244:52636"
+}
+>>>>>>> db2312f69cfd36a78e1d5d0fb1bfcb7ebb2fd522
 
 # source = requests.get('https://www.rockauto.com/',proxies=proxies)
 # print(source.text)
@@ -28,6 +35,10 @@ def findAnchor(input):
     else:
         url = domain+input['href']
     source = requestUsingProxies(url)
+<<<<<<< HEAD
+=======
+    # print(source)
+>>>>>>> db2312f69cfd36a78e1d5d0fb1bfcb7ebb2fd522
     soup = BeautifulSoup(source, 'lxml')
     output = soup.findChildren('a', class_='navlabellink nvoffset nnormal')
     return output
