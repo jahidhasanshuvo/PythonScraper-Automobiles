@@ -1,21 +1,26 @@
 from bs4 import BeautifulSoup
-import requests
 import csv,os,time
-
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 file = os.path.isfile('rockauto.csv')
 
-proxies = {
-    "https": "https://176.98.76.210:42953",
-    "http": "http://176.98.76.210:42953"
-}
+# proxies = {
+#     "https": "https://176.98.76.210:42953",
+#     "http": "http://176.98.76.210:42953"
+# }
 
 # source = requests.get('https://www.rockauto.com/',proxies=proxies)
 # print(source.text)
 domain = 'https://www.rockauto.com'
+browser = webdriver.Chrome(executable_path='./driver/chromedriver')
+browser.set_window_size(1200,1200)
 
 def requestUsingProxies(url):
     time.sleep(3)
-    return requests.get(url).text
+    browser.get(url)
+    return browser.page_source
 
 def findAnchor(input):
     if input is None:
@@ -23,7 +28,6 @@ def findAnchor(input):
     else:
         url = domain+input['href']
     source = requestUsingProxies(url)
-    print(source)
     soup = BeautifulSoup(source, 'lxml')
     output = soup.findChildren('a', class_='navlabellink nvoffset nnormal')
     return output
@@ -39,7 +43,6 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
     for brand in brands:
         years=findAnchor(brand)
         for year in years[1:]:
-            # print(year.text)
             models=findAnchor(year)
             for model in models[2:]:
                 engines=findAnchor(model)
@@ -55,27 +58,29 @@ with open('rockauto.csv', 'a', newline='') as csvfile:
 
                         for sub_category in sub_categories:
                             details_source = requestUsingProxies(domain + sub_category['href'])
-                            details_soup = BeautifulSoup(details_source, 'lxml')
-
-                            details = details_soup.findChildren('tbody',class_='listing-inner')
-                            for detail in details:
-                                product_id=detail['id'].split('[')
-                                product_id=product_id[1].split(']')
-                                product_id = product_id[0]
-
-                                detail_soup = BeautifulSoup(str(detail),'lxml')
-                                manufracturer = detail_soup.findChild('span',class_='listing-final-manufacturer')
-                                partnumber = detail_soup.findChild('span',class_='listing-final-partnumber')
-                                more_detail = detail_soup.findChild('span',class_='span-link-underline-remover')
-                                if more_detail is None:
-                                    more_detail='N/A'
+                            myElem = WebDriverWait(browser, 4).until(
+                                EC.presence_of_all_elements_located((By.CLASS_NAME, 'listing-inner')))
+                            for i in myElem:
+                                soup = BeautifulSoup(i.get_attribute('innerHTML'), 'lxml')
+                                manufracturer = soup.findChild('span', class_='listing-final-manufacturer')
+                                partnumber = soup.findChild('span', class_='listing-final-partnumber')
+                                details = soup.findChild('span', class_='span-link-underline-remover')
+                                more_details = soup.findChild('div', class_='listing-text-row')
+                                if details is None:
+                                    details='N/A'
                                 else:
-                                    more_detail=more_detail.text
-                                price = details_soup.findChild('span',id= 'dprice['+product_id+'][v]')
+                                    details=details.text
+                                if more_details is None:
+                                    more_details='N/A'
+                                else:
+                                    more_details=more_details.text
+
+                                more_details = details+more_details
+                                price = soup.findChild('span', class_='listing-price')
                                 print(f'{brand.text}--,{year.text},'
                                       f'--{model.text}--{engine.text}--{category.text}--{sub_category.text}-'
-                                      f'-{manufracturer.text}--{partnumber.text}-{more_detail}-{price.text}')
+                                      f'-{manufracturer.text}--{partnumber.text}-{more_details}-{price.text}')
 
                                 writer.writerow({'Brand': brand.text, 'Year':year.text, 'Model':model.text, 'Engine':engine.text,
                                         'Category':category.text, 'SubCategory':sub_category.text, 'Manufacturer':manufracturer.text,
-                                        'PartNumber':partnumber.text, 'MoreDetails':more_detail, 'Price':price.text})
+                                        'PartNumber':partnumber.text, 'MoreDetails':more_details, 'Price':price.text})
